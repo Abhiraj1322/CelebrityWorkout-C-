@@ -26,7 +26,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page with Hero Section
-![Home Page](screenshots/homepage.png)
+![Home Page](Homepage.png)
 
 ### 📄 Celebrity List with Uploaded Images
 ![Celebrity List](screenshots/celebrity-list.png)
