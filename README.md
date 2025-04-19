@@ -23,11 +23,16 @@
 
 ## 📸 Screenshots
 
-> Include images here of:
-> - Home Page with hero section
-> - Celebrity list with uploaded images
-> - Workout Routine page
-> - Swagger UI
+## 📸 Screenshots
+
+### 🏠 Home Page with Hero Section
+![Home Page](screenshots/homepage.png)
+
+### 📄 Celebrity List with Uploaded Images
+![Celebrity List](screenshots/celebrity-list.png)
+
+
+
 
 ---
 
