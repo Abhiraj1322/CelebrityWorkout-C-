@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CelebrityWorkout
+build_property.RootNamespace = CelebrityWorkout
+build_property.ProjectDir = C:\Users\abhra\OneDrive\Documents\Celebrity-Workout-app\CelebrityWorkout\CelebrityWorkout\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\abhra\OneDrive\Documents\Celebrity-Workout-app\CelebrityWorkout\CelebrityWorkout
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/CelebrityPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VsZWJyaXR5UGFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/CelebrityPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VsZWJyaXR5UGFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/CelebrityPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VsZWJyaXR5UGFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/CelebrityPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VsZWJyaXR5UGFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/CelebrityPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VsZWJyaXR5UGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieCharacterPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVDaGFyYWN0ZXJQYWdlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieCharacterPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVDaGFyYWN0ZXJQYWdlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieCharacterPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVDaGFyYWN0ZXJQYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieCharacterPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVDaGFyYWN0ZXJQYWdlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieCharacterPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVDaGFyYWN0ZXJQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieRolePage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVSb2xlUGFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieRolePage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVSb2xlUGFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieRolePage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVSb2xlUGFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieRolePage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVSb2xlUGFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/MovieRolePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVSb2xlUGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/WorkoutRoutinePage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dFJvdXRpbmVQYWdlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/WorkoutRoutinePage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dFJvdXRpbmVQYWdlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/WorkoutRoutinePage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dFJvdXRpbmVQYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/WorkoutRoutinePage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dFJvdXRpbmVQYWdlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/WorkoutRoutinePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dFJvdXRpbmVQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abhra/OneDrive/Documents/Celebrity-Workout-app/CelebrityWorkout/CelebrityWorkout/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4j1s0ynxhy

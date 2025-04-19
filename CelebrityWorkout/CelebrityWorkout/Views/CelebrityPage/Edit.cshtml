@@ -1,0 +1,21 @@
+﻿@model CelebrityWorkout.Models.CelebrityDTO
+
+<h2>Edit Celebrity</h2>
+<form asp-action="Edit">
+    <input type="hidden" asp-for="CelebrityId" />
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Profession"></label>
+        <input asp-for="Profession" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Biography"></label>
+        <textarea asp-for="Biography" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-success">Update</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+

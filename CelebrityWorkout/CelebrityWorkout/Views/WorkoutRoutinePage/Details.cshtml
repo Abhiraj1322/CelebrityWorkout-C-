@@ -1,0 +1,21 @@
+﻿@model CelebrityWorkout.Models.WorkoutRoutineDTO
+
+<h2>Workout Routine Details</h2>
+
+<div class="card mt-3">
+    <div class="card-body">
+        <h4 class="card-title">@Model.WorkoutType</h4>
+        <p class="card-text">
+            <strong>Frequency:</strong> @Model.Frequency<br />
+            <strong>Duration:</strong> @Model.Duration<br />
+            <strong>Description:</strong> @Model.Description<br />
+            <strong>Celebrity:</strong> @Model.Celebrity?.Name
+        </p>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="Edit" asp-route-id="@Model.WorkoutId" class="btn btn-warning">Edit</a>
+    <a asp-action="Delete" asp-route-id="@Model.WorkoutId" class="btn btn-danger">Delete</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

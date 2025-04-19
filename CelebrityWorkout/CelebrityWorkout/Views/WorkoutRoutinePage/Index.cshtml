@@ -1,0 +1,35 @@
+﻿@model List<CelebrityWorkout.Models.WorkoutRoutineDTO>
+
+<h2>Workout Routines</h2>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Add New Routine</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Workout Type</th>
+            <th>Frequency</th>
+            <th>Duration</th>
+            <th>Description</th>
+            <th>Celebrity</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.WorkoutType</td>
+                <td>@item.Frequency</td>
+                <td>@item.Duration</td>
+                <td>@item.Description</td>
+                <td>@item.Celebrity?.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.WorkoutId" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.WorkoutId" class="btn btn-sm btn-info">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.WorkoutId" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

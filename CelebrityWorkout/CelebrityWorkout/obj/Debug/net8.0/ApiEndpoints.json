@@ -1,0 +1,318 @@
+[
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.CelebrityController",
+    "Method": "GetAll",
+    "RelativePath": "api/celebrities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.CelebrityController",
+    "Method": "Create",
+    "RelativePath": "api/celebrities",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CelebrityWorkout.Models.CelebrityDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.CelebrityController",
+    "Method": "GetById",
+    "RelativePath": "api/celebrities/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.CelebrityController",
+    "Method": "Update",
+    "RelativePath": "api/celebrities/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CelebrityWorkout.Models.CelebrityDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.CelebrityController",
+    "Method": "Delete",
+    "RelativePath": "api/celebrities/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieCharacterController",
+    "Method": "GetAll",
+    "RelativePath": "api/moviecharacters",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieCharacterController",
+    "Method": "Create",
+    "RelativePath": "api/moviecharacters",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CelebrityWorkout.Models.MovieCharacterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieCharacterController",
+    "Method": "GetById",
+    "RelativePath": "api/moviecharacters/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieCharacterController",
+    "Method": "Update",
+    "RelativePath": "api/moviecharacters/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CelebrityWorkout.Models.MovieCharacterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieCharacterController",
+    "Method": "Delete",
+    "RelativePath": "api/moviecharacters/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieRoleController",
+    "Method": "GetAll",
+    "RelativePath": "api/movieroles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieRoleController",
+    "Method": "Create",
+    "RelativePath": "api/movieroles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CelebrityWorkout.Models.MovieRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieRoleController",
+    "Method": "GetById",
+    "RelativePath": "api/movieroles/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieRoleController",
+    "Method": "Update",
+    "RelativePath": "api/movieroles/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CelebrityWorkout.Models.MovieRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.MovieRoleController",
+    "Method": "Delete",
+    "RelativePath": "api/movieroles/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.WorkoutRoutineController",
+    "Method": "GetAll",
+    "RelativePath": "api/workouts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.WorkoutRoutineController",
+    "Method": "Create",
+    "RelativePath": "api/workouts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CelebrityWorkout.Models.WorkoutRoutineDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.WorkoutRoutineController",
+    "Method": "GetById",
+    "RelativePath": "api/workouts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.WorkoutRoutineController",
+    "Method": "Update",
+    "RelativePath": "api/workouts/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CelebrityWorkout.Models.WorkoutRoutineDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CelebrityWorkout.Controllers.Api.WorkoutRoutineController",
+    "Method": "Delete",
+    "RelativePath": "api/workouts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

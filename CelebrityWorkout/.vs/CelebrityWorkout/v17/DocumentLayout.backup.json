@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\controllers\\workoutroutinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\controllers\\workoutroutinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\controllers\\movierolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\controllers\\movierolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\controllers\\workoutroutinepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\controllers\\workoutroutinepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\controllers\\movierolepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\controllers\\movierolepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\controllers\\moviecharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\controllers\\moviecharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\controllers\\celebritycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\controllers\\celebritycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\controllers\\celebritypagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\controllers\\celebritypagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\workoutroutinepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\workoutroutinepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\controllers\\moviecharacterpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\controllers\\moviecharacterpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\workoutroutinepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\workoutroutinepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\workoutroutinepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\workoutroutinepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\workoutroutinepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\workoutroutinepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\workoutroutinepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\workoutroutinepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\movierolepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\movierolepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\movierolepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\movierolepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\movierolepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\movierolepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\movierolepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\movierolepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\movierolepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\movierolepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\moviecharacterpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\moviecharacterpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\moviecharacterpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\moviecharacterpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\moviecharacterpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\moviecharacterpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\moviecharacterpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\moviecharacterpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\views\\moviecharacterpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\views\\moviecharacterpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\interfaces\\icelebrityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\interfaces\\icelebrityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\models\\movierole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\models\\movierole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|c:\\users\\abhra\\onedrive\\documents\\celebrity-workout-app\\celebrityworkout\\celebrityworkout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B6B6FB-CA12-4911-80BA-47D8B5E4BFE5}|CelebrityWorkout\\CelebrityWorkout.csproj|solutionrelative:celebrityworkout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieCharacterPage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Delete.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieCharacterPage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:09:31.629Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkoutRoutineController.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\WorkoutRoutineController.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Controllers\\WorkoutRoutineController.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\WorkoutRoutineController.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Controllers\\WorkoutRoutineController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:37:26.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieRoleController.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\MovieRoleController.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Controllers\\MovieRoleController.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\MovieRoleController.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Controllers\\MovieRoleController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA4wE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:36:49.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRolePageController.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\MovieRolePageController.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Controllers\\MovieRolePageController.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\MovieRolePageController.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Controllers\\MovieRolePageController.cs",
+              "ViewState": "AgIAABUAAABAzszMzAwnwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:29:56.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGcAAACAMTMzM3MvwHcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T23:54:28.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieCharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\MovieCharacterController.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Controllers\\MovieCharacterController.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\MovieCharacterController.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Controllers\\MovieCharacterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:35:51.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkoutRoutinePageController.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\WorkoutRoutinePageController.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Controllers\\WorkoutRoutinePageController.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\WorkoutRoutinePageController.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Controllers\\WorkoutRoutinePageController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:35:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CelebrityController.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\CelebrityController.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Controllers\\CelebrityController.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\CelebrityController.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Controllers\\CelebrityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T01:31:52.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CelebrityPageController.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\CelebrityPageController.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Controllers\\CelebrityPageController.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\CelebrityPageController.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Controllers\\CelebrityPageController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:48:15.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieCharacterPageController.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\MovieCharacterPageController.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Controllers\\MovieCharacterPageController.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Controllers\\MovieCharacterPageController.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Controllers\\MovieCharacterPageController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:49:28.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Create.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:34:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Details.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Details.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:43:02.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Edit.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:36:26.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Delete.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:37:32.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Index.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\WorkoutRoutinePage\\Index.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\WorkoutRoutinePage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:33:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieRolePage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Create.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieRolePage\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:17:06.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Index.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieRolePage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Index.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieRolePage\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:15:31.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieCharacterPage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Create.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieCharacterPage\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:04:20.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieCharacterPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Index.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieCharacterPage\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T23:53:39.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieRolePage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Delete.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieRolePage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:22:25.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Details.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieRolePage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Details.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieRolePage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:22:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieRolePage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieRolePage\\Edit.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieRolePage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T00:23:52.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieCharacterPage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Edit.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieCharacterPage\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T23:52:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Views\\MovieCharacterPage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Views\\MovieCharacterPage\\Details.cshtml",
+              "RelativeToolTip": "CelebrityWorkout\\Views\\MovieCharacterPage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T23:51:07.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICelebrityService.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Interfaces\\ICelebrityService.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Interfaces\\ICelebrityService.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Interfaces\\ICelebrityService.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Interfaces\\ICelebrityService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:09:55.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MovieRole.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Models\\MovieRole.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Models\\MovieRole.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Models\\MovieRole.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Models\\MovieRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:43:14.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Program.cs",
+              "RelativeDocumentMoniker": "CelebrityWorkout\\Program.cs",
+              "ToolTip": "C:\\Users\\abhra\\OneDrive\\Documents\\Celebrity-Workout-app\\CelebrityWorkout\\CelebrityWorkout\\Program.cs",
+              "RelativeToolTip": "CelebrityWorkout\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:03:32.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿@model CelebrityWorkout.Models.CelebrityDTO
+
+<h2>Delete Celebrity</h2>
+<h4>Are you sure you want to delete this celebrity?</h4>
+<div>
+    <h5>@Model.Name</h5>
+    <p>@Model.Profession</p>
+    <p>@Model.Biography</p>
+</div>
+<form asp-action="Delete">
+    <input type="hidden" asp-for="CelebrityId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

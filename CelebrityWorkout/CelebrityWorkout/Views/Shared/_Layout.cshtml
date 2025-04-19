@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CelebrityWorkout</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CelebrityWorkout.styles.css" asp-append-version="true" />
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .buttons-section {
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 15px;
+        }
+
+        nav.navbar {
+            background: #000;
+        }
+
+            nav.navbar a.navbar-brand,
+            nav.navbar a.nav-link {
+                color: #fff !important;
+                font-weight: 500;
+                transition: color 0.2s ease-in-out;
+            }
+
+                nav.navbar a.nav-link:hover {
+                    color: #ffc107 !important;
+                }
+
+        .hero {
+            background-color: black;
+            height: 350px;
+            border-radius: 12px;
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding: 20px;
+        }
+
+            .hero h1 {
+                font-size: 3rem;
+                font-weight: bold;
+                text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+            }
+
+            .hero p {
+                font-size: 1.25rem;
+                margin-bottom: 20px;
+            }
+
+        footer {
+            background-color: #3b5998;
+            color: white;
+        }
+
+            footer a {
+                color: #ddd;
+                text-decoration: none;
+            }
+
+                footer a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark shadow-sm">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CelebrityWorkout</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
+                        aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Privacy">Privacy</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="Swagger" asp-action="Index">API</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="CelebrityPage" asp-action="Index">Celebrity</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="MovieCharacterPage" asp-action="Index">Character</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="MovieRolePage" asp-action="Index">Movie Role</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="WorkoutRoutinePage" asp-action="Index">Workout Routine</a></li>
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container mt-4">
+        <div class="hero">
+            <h1>Train Like a Star</h1>
+            <p>Explore the workouts, roles, and routines of your favorite celebrities.</p>
+            <div class="buttons-section">
+                <a class="btn btn-warning btn-lg" asp-controller="WorkoutRoutinePage" asp-action="Index">Explore Workouts</a>
+                <a class="btn btn-warning btn-lg" asp-controller="MovieCharacterPage" asp-action="Index">Top Character</a>
+            </div>
+        </div>
+
+        <main role="main" class="pb-4">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-center">
+        <div class="container">
+            &copy; 2025 - CelebrityWorkout | <a asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
