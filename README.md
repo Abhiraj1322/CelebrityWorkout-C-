@@ -29,7 +29,7 @@
 ![Home Page](Homepage.png)
 
 ### 📄 Celebrity List with Uploaded Images
-![Celebrity List](screenshots/celebrity-list.png)
+![Movie Character](Moviecharacter.png)
 
 
 
